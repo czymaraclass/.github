@@ -18,12 +18,6 @@ Models
 - Aug 2021: Frankfurt Digital Summer School: Multilevel Analysis
 - Summer 2021: Lägsschnittdatenanalyse und Kausalität
 - Winter 2020/21: Längsschnittdatenanalyse und Kausalität
-
-<div style="width:350px; height:350px; float: right;">
-  <img src="https://raw.githubusercontent.com/czymaraclass/evaluations/refs/heads/main/evalovertime.png" width="350" height="350" alt="Student evaluations" style="display: block; margin: auto;">
-  <figcaption style="text-align: center;">Student evaluations of my courses</figcaption>
-</div>
-
 - Summer 2020: Längsschnittdatenanalyse und Kausalität
 - Winter 2019/20: Vergleichende Sozialforschung mit Mehrebenenmodellen
 - Summer 2019: Analyzing longitudinal data and the issue of causality
@@ -34,5 +28,5 @@ Models
 - Winter 2016/17: Analysis of cross-sectional data (as tutor)
 - Summer 2016: Analysis of longitudinal data (as tutor)
 
-
-The student evaluations showcased below reflect the consistent positive reception of my courses.
+The student evaluations showcased below reflect the consistent positive reception of my courses:
+![Evaluation Over Time](https://raw.githubusercontent.com/czymaraclass/evaluations/refs/heads/main/evalovertime.png)
