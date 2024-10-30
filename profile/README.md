@@ -28,5 +28,6 @@ Models
 - Winter 2016/17: Analysis of cross-sectional data (as tutor)
 - Summer 2016: Analysis of longitudinal data (as tutor)
 
-The student evaluations showcased below reflect the consistent positive reception of my courses:
-![Evaluation Over Time](https://raw.githubusercontent.com/czymaraclass/evaluations/refs/heads/main/evalovertime.png)
+The student evaluations reflect the consistent positive reception of my courses:
+<img src="https://raw.githubusercontent.com/czymaraclass/evaluations/refs/heads/main/evalovertime.png" alt="Evaluation Over Time" style="width:50%;">
+
