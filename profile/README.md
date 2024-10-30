@@ -1,6 +1,17 @@
 # Quantitative Data Analysis for Social Scientists: An Open-Access Course Collection
 
-[Czymara Courses](https://github.com/czymaraclass) is an open-access collection dedicated to quantitative data analysis. These courses cover a range of skills, from [foundational programming](https://github.com/czymaraclass/intros) to advanced techniques in [computational social science](https://github.com/czymaraclass/CSS_WS24), [panel data analysis](https://github.com/czymaraclass/LongDataAnalysis) (currently offline), and [multilevel modeling](https://github.com/czymaraclass/CompSocResearch). Each course includes practical exercises and real-world examples, providing a comprehensive toolkit for conducting robust social science research. Accessible and hands-on, these resources are designed to support both beginners and advanced learners in developing data-driven insights and enhancing their analytical capabilities in social research.
+[Czymara Courses](https://github.com/czymaraclass) is an open-access collection dedicated to quantitative data analysis. These courses cover a range of skills, ranging from foundational programming to advanced techniques. In particular, the courses include:
+
+- [Introductions to R and Python](https://github.com/czymaraclass/intros): Two Colabs¹ ²
+- [Computational Social Science](https://github.com/czymaraclass/CSS_WS24): Semester-long research training¹ ²
+- [Topic Modelling](https://github.com/czymaraclass/TopicModelling): Workshop¹ ²
+- [Analysis of Longitudinal Data](https://github.com/czymaraclass/LongDataAnalysis): Semester-long research training¹; also available in a [condensed format](https://github.com/czymaraclass/PanelReg)¹ (currently offline)
+- [Comparative Social Research with Multi-level Modelling](https://github.com/czymaraclass/CompSocResearch) Semester-long research training¹
+
+¹ in R
+² in Python
+
+Each research training includes practical tutorials and real-world examples, providing a comprehensive toolkit for conducting robust social science research. Accessible and hands-on, these resources are designed to support both beginners and advanced learners in developing data-driven insights and enhancing their analytical capabilities in social research.
 
 ## About the Lecturer
 
