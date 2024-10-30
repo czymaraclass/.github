@@ -6,7 +6,7 @@
 - [Computational Social Science](https://github.com/czymaraclass/CSS_WS24): Semester-long research training¹ ²
 - [Topic Modelling](https://github.com/czymaraclass/TopicModelling): Workshop¹ ²
 - [Analysis of Longitudinal Data](https://github.com/czymaraclass/LongDataAnalysis): Semester-long research training¹; also available in a [condensed format](https://github.com/czymaraclass/PanelReg)¹ (currently offline)
-- [Comparative Social Research with Multi-level Modelling](https://github.com/czymaraclass/CompSocResearch) Semester-long research training¹
+- [Comparative Social Research with Multi-level Modelling](https://github.com/czymaraclass/CompSocResearch): Semester-long research training¹
 
 ¹ in R
 ² in Python
