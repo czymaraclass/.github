@@ -19,25 +19,5 @@ I specialize in teaching courses focused on quantitative methods and research de
 
 ## Experience
 
-- Oct 2023: Workshops for Ukraine: Introduction to Topic Modelling in R and Python
-- Aug 2023: DeZIM Summer School: Einführung in die Panelregression
-- Jul 2023: BIGSSS Summer School on Computational Social Science of Democratic Debate: Topic 
-Models
-- Summer 2022: Längsschnittdatenanalyse in R
-- Winter 2021/22: Vergleichende Sozialforschung mit Mehrebenenmodellen in R
-- Aug 2021: Frankfurt Digital Summer School: Multilevel Analysis
-- Summer 2021: Lägsschnittdatenanalyse und Kausalität
-- Winter 2020/21: Längsschnittdatenanalyse und Kausalität
-- Summer 2020: Längsschnittdatenanalyse und Kausalität
-- Winter 2019/20: Vergleichende Sozialforschung mit Mehrebenenmodellen
-- Summer 2019: Analyzing longitudinal data and the issue of causality
-- Winter 2018/19: Quantitative comparative social research with multi-level modeling
-- Summer 2018: An applied introduction into quantitative comparative social research
-- Winter 2017/18: Analysis of cross-sectional data (as tutor)
-- Summer 2017: Analysis of longitudinal data (as tutor)
-- Winter 2016/17: Analysis of cross-sectional data (as tutor)
-- Summer 2016: Analysis of longitudinal data (as tutor)
-
 The student evaluations reflect the consistent positive reception of my courses:
 <img src="https://raw.githubusercontent.com/czymaraclass/evaluations/refs/heads/main/evalovertime.png" alt="Evaluation Over Time" style="width:50%;">
-
