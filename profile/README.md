@@ -19,9 +19,9 @@ Models
 - Summer 2021: Lägsschnittdatenanalyse und Kausalität
 - Winter 2020/21: Längsschnittdatenanalyse und Kausalität
 
-<div style="width:350px;height:350;float: right;">
-  <img src="/evaluations/refs/heads/main/evalovertime.png" width="350" height="350" align="right">
-    <figcaption align = "center">Student students' evaluations of my courses</figcaption>
+<div style="width:350px; height:350px; float: right;">
+  <img src="https://raw.githubusercontent.com/czymaraclass/evaluations/refs/heads/main/evalovertime.png" width="350" height="350" alt="Student evaluations" style="display: block; margin: auto;">
+  <figcaption style="text-align: center;">Student evaluations of my courses</figcaption>
 </div>
 
 - Summer 2020: Längsschnittdatenanalyse und Kausalität
