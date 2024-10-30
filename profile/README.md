@@ -17,7 +17,7 @@ Each research training includes practical tutorials and real-world examples, pro
 
 I specialize in teaching courses focused on quantitative methods and research design for social science students. My teaching experience spans several years and includes work at multiple institutions like Goethe University Frankfurt and the University of Cologne, as well as various educational formats, including summer schools such as the DeZIM Summer School, the Frankfurt Summer School, and the Workshops for Ukraine series.
 
-## Evaluations
+## Experience
 
 - Oct 2023: Workshops for Ukraine: Introduction to Topic Modelling in R and Python
 - Aug 2023: DeZIM Summer School: Einführung in die Panelregression
